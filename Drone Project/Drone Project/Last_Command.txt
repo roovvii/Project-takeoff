@@ -1,0 +1,6 @@
+Forward 1
+backward 2
+left 3
+takeoff 0
+right 4
+land 5
